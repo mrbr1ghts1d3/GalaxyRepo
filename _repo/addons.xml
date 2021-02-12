@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.galaxywizard" name="[COLOR aqua]Galaxy Wizard[/COLOR]" version="1.0.1" provider-name="TWMF">
+<addon id="plugin.program.galaxywizard" name="[COLOR aqua]Galaxy Wizard[/COLOR]" version="1.0.2" provider-name="TWMF">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -21,6 +21,8 @@
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://www.github.com/mrbr1ghts1d3/plugin.program.galaxywizard</source>
         <news>
+1.0.2
+- Added source for Galaxy Build
 1.0.1
 - Removed OpenWizard Branding
 1.0.0
