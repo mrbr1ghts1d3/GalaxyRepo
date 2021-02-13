@@ -4,9 +4,9 @@ zip="https://raw.githubusercontent.com/mrbr1ghts1d3/GalaxyRepo/master/_repo/plug
 
 name="Galaxy Build"
 version="0.7"
-url="https://cdn-103.anonfiles.com/BcDaccIap7/0496f752-1613178818/galaxy-0.7.zip"
+url="https://dl.dropboxusercontent.com/s/tf1x26aea2e63k4/galaxy-0.7.zip?dl=0"
 minor="http://"
-gui="https://cdn-142.anonfiles.com/T17fc5I3p9/590b1b50-1613178560/galaxy-0.7_guisettings.zip"
+gui="dl.dropboxusercontent.com/s/604whx7juayw1s9/galaxy-0.7_guisettings.zip?dl=0"
 kodi="18.9"
 theme="http://your.themes.url"
 icon="http://"
